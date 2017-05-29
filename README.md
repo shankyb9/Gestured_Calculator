@@ -1,6 +1,8 @@
 # Gestured_Calculator
 
--A calculator program which will take input through gestures and colored bands.
+-A calculator program which will take input through gestures and colored bands
+
+-Gives output in text as well as voice
 
 -Made in MATLAB
 
