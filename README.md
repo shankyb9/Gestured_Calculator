@@ -17,3 +17,6 @@
 -final_black is for running in black background
 
 -The accuracy might get reduced due to the effects of luminance.
+
+#Author
+Shashank Bhalotia
