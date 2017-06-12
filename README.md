@@ -1,12 +1,12 @@
 # Gestured_Calculator
 
--A calculator program which will take input through gestures and colored bands
+- A calculator program which will take input through gestures and colored bands
 
--Gives output in text as well as voice
+- Gives output in text as well as voice
 
--Made in MATLAB
+- Made in MATLAB
 
--Used Kinect Sensor
+- Used Kinect Sensor
 
 -It takes input through fingers for digits, and small colored bands on top of fingers for arithmetic signs
 
@@ -18,5 +18,4 @@
 
 -The accuracy might get reduced due to the effects of luminance.
 
-# Author
-Shashank Bhalotia
+
